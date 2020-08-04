@@ -1,0 +1,10 @@
+# игнорирует файлы в подкаталоге tmp
+tmp/
+
+# игнорирует все файлы с расширением _old и _backup
+*_old
+*_backup
+
+# игнорирует файлы Thumbs.db и .DS_Store
+Thumbs.db
+.DS_Store
